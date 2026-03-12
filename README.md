@@ -386,70 +386,73 @@ while(true){
 
 }
 
-Probability Interpretation
+## Probability Interpretation
 
 Prediction markets naturally encode probabilities.
 
-In PredictSol, the TRUE token price represents the market’s estimate of the probability that the event will occur.
+In PredictSol, the **TRUE token price** represents the market’s estimate of the probability that the event will occur.
 
-Example:
+### Example
 
 TRUE price = 0.73
 FALSE price = 0.27
 
-Interpretation:
 
-Market estimates a 73% probability that the event occurs.
+### Interpretation
+
+Market estimates a **73% probability** that the event occurs.
 
 Due to fees and market dynamics, prices may fluctuate slightly, but markets typically converge near:
 
 TRUE + FALSE ≈ 1
-Benefits to the PredictSol Ecosystem
+
+---
+
+## Benefits to the PredictSol Ecosystem
 
 Arbitrage trading provides several key benefits.
 
-Efficient Pricing
-
+### Efficient Pricing
 Keeps token values close to equilibrium.
 
-Increased Liquidity
-
+### Increased Liquidity
 More trading activity improves market depth.
 
-Market Stability
-
+### Market Stability
 Price discrepancies are corrected quickly.
 
-Decentralized Participation
-
+### Decentralized Participation
 Anyone can run an arbitrage bot, ensuring open and competitive markets.
 
-Conclusion
+---
 
-The PredictSol Arbitrage Bot ensures that tokenized prediction markets remain efficient and accurately priced.
+## Conclusion
 
-By exploiting price discrepancies between PredictSol and external exchanges, arbitrage traders help maintain equilibrium, increase liquidity, and strengthen the reliability of prediction markets.
+The PredictSol Arbitrage Bot helps ensure that tokenized prediction markets remain efficient and accurately priced.
 
-Contributing
+By exploiting price discrepancies between PredictSol and external exchanges, arbitrage traders help:
 
-PredictSol is an open ecosystem, and this repository is a fun experiment exploring how arbitrage bots can interact with prediction markets.
+- maintain price equilibrium
+- increase market liquidity
+- strengthen the reliability of prediction markets
+
+---
+
+## Contributing
+
+PredictSol is an open ecosystem, and this repository is a **fun experiment** exploring how arbitrage bots can interact with prediction markets.
 
 If you enjoy building trading bots, experimenting with Solana, or exploring prediction markets, feel free to jump in and contribute.
 
-Ideas for contributions include:
+### Ideas for Contributions
 
-improving the market scanner
+- improving the market scanner
+- integrating real DEX price feeds
+- experimenting with arbitrage strategies
+- building monitoring tools
+- optimizing performance
+- testing different trading models
 
-integrating real DEX price feeds
-
-experimenting with arbitrage strategies
-
-building monitoring tools
-
-optimizing performance
-
-testing different trading models
-
-This project is intentionally open and exploratory. Developers are welcome to fork it, experiment with it, and share improvements.
+This project is intentionally open and exploratory. Developers are welcome to **fork it, experiment with it, and share improvements**.
 
 Pull requests, ideas, and discussions are always welcome.
