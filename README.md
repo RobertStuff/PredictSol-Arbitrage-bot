@@ -429,3 +429,27 @@ Conclusion
 The PredictSol Arbitrage Bot ensures that tokenized prediction markets remain efficient and accurately priced.
 
 By exploiting price discrepancies between PredictSol and external exchanges, arbitrage traders help maintain equilibrium, increase liquidity, and strengthen the reliability of prediction markets.
+
+Contributing
+
+PredictSol is an open ecosystem, and this repository is a fun experiment exploring how arbitrage bots can interact with prediction markets.
+
+If you enjoy building trading bots, experimenting with Solana, or exploring prediction markets, feel free to jump in and contribute.
+
+Ideas for contributions include:
+
+improving the market scanner
+
+integrating real DEX price feeds
+
+experimenting with arbitrage strategies
+
+building monitoring tools
+
+optimizing performance
+
+testing different trading models
+
+This project is intentionally open and exploratory. Developers are welcome to fork it, experiment with it, and share improvements.
+
+Pull requests, ideas, and discussions are always welcome.
