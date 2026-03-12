@@ -360,7 +360,7 @@ Bots typically include a **minimum profit threshold** to ensure trades remain pr
 
 Example simplified logic:
 
-```javascript
+```text
 while(true){
 
     markets = fetchPredictSolMarkets()
@@ -383,8 +383,8 @@ while(true){
         }
 
     }
-
 }
+```
 
 ## Probability Interpretation
 
