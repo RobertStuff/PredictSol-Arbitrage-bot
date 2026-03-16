@@ -1,0 +1,47 @@
+# dependencies
+node_modules/
+
+# compiled output
+dist/
+build/
+out/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# editor folders
+.vscode/
+.idea/
+
+# coverage reports
+coverage/
+
+# temporary files
+tmp/
+temp/
+
+# scanner output files
+scanner-opportunities.json
+
+# package lock from other managers
+pnpm-lock.yaml
+yarn.lock
+
+# misc
+*.tgz
